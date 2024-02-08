@@ -7,7 +7,8 @@
 5. Robo 3T
 6. Git
 7. Notion
+8. Sourcetree
 
-## MocOs
+## MacOs
 
 ## Linux
